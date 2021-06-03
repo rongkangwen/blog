@@ -16,7 +16,7 @@ module.exports = [
             link: '/note/git/',
           },
           {
-            text: '《JavaScript高级程序设计》笔记',
+            text: '《JavaScript教程》笔记',
             link: '/note/js/',
           },
         ]
