@@ -33,7 +33,7 @@ module.exports = [
     text: '更多',
     link: '/more/',
     items: [
-      { text: '面试', link: '' },
+      { text: '面试', link: '/pages/519c18/' },
       { text: '心情杂货', link: '/pages/70cd74/' },
     ],
   },
