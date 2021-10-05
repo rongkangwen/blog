@@ -19,6 +19,10 @@ module.exports = [
             text: '《JavaScript教程》笔记',
             link: '/note/js/',
           },
+          {
+            text: '《WebPack》学习笔记',
+            link: '/note/webpack/',
+          },
         ]
       }
 
