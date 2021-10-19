@@ -23,6 +23,10 @@ module.exports = [
             text: '《WebPack》学习笔记',
             link: '/note/webpack/',
           },
+          {
+            text: '《TypeScript教程》学习笔记',
+            link: '/note/ts/',
+          },
         ]
       }
 
