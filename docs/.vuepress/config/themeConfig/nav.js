@@ -27,6 +27,10 @@ module.exports = [
             text: '《TypeScript教程》学习笔记',
             link: '/note/ts/',
           },
+          {
+            text: '《go》学习笔记',
+            link: '/note/go/',
+          },
         ]
       }
 
