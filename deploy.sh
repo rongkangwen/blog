@@ -10,7 +10,7 @@ yarn build
 cd docs/.vuepress/dist
 
 # 如果是发布到自定义域名
-echo 'www.rongkangwen.cn' > CNAME
+# echo 'www.rongkangwen.cn' > CNAME
 echo 'rongkangwen.github.io' >> README.md
 
 if [ -z "$GITHUB_TOKEN" ]; then
